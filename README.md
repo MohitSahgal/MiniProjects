@@ -1,0 +1,2 @@
+# MiniProjects
+Python mini projects
